@@ -9,7 +9,8 @@ This document helps you integrate the Makaira Headless Extension into your Magen
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Activating the Module](#activating-the-module)
-    
+- [API endpoint examples](#api-endpoint-examples)
+
 ## Requirements
 
 This module supports:
