@@ -1,12 +1,12 @@
 {
-  "name": "codekunst/magento2-makaira",
+  "name": "makaira/magento2-connect",
   "description": "Makaira Headless Extension for Magento 2",
   "type": "magento2-module",
   "license": "proprietary",
   "authors": [
     {
-      "name": "codekunst Mannheim GmbH",
-      "homepage": "https://www.codekunst-mannheim.de/"
+      "name": "Makaira GmbH",
+      "homepage": "https://www.makaira.io/"
     }
   ],
   "require": {
