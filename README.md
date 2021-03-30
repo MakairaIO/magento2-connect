@@ -23,7 +23,7 @@ This module supports:
 
 To install module, open your terminal and run the command:
 
-    composer require codekunst/magento2-makaira:dev-main
+    composer require makaira/magento2-connect:dev-main
 
 Refer to Composer manual for more information. If, for some reason, `composer` is not available globally, proceed to install it following the
 instructions available on the [project website](https://getcomposer.org/doc/00-intro.md).
